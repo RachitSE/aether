@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Aether Brewing ☕️⚡️
+Precision Coffee Architecture. Aether is a concept e-commerce platform that reimagines the online coffee buying experience. It moves beyond standard grids to offer a tactile, "concierge-grade" interface.
 
-## Getting Started
+🧪 Key Features
+The Archive (Shop): A premium inventory system with layout-preserving shared element transitions and dynamic filtering.
 
-First, run the development server:
+The Protocol (Subscription): A custom Physics Engine (HTML5 Canvas) that simulates thousands of coffee particles falling onto a digital scale to visualize grind size and weight in real-time.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The Lab (Methodology): An interactive brewing calculator featuring:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Live SVG Flavor Radar charts that morph based on brew method.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3D Tilt-effect Recipe Cards.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+A custom "Print Tunnel" engine for exporting gallery-grade PDF blueprints.
 
-## Learn More
+The Sanctuaries (Locations): A cinematic "portal" interface with Ken Burns background effects, live timezone clocks, and simulated weather data.
 
-To learn more about Next.js, take a look at the following resources:
+🛠 Tech Stack
+Framework: Next.js 14 (App Router)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Language: TypeScript
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Styling: Tailwind CSS
 
-## Deploy on Vercel
+Animation: Framer Motion (Complex orchestrations, layoutId, useScroll)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Physics: Native HTML5 Canvas API
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Icons: Lucide React
